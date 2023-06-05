@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rakan-al-madani-b77281179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakan-al-madani-b77281179/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/rakan-al-madani-b77281179/](https://www.linkedin.com/in/rakan-al-madani-b77281179/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakan-al-madani-b77281179/" height="30" width="40" /></a>
 <a href="https://kaggle.com/rakanalmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakanalmadani" height="30" width="40" /></a>
-<a href="https://fb.com/rakan almadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakan almadani" height="30" width="40" /></a>
+<a href="[https://fb.com/rakan almadani](https://www.facebook.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakan almadani" height="30" width="40" /></a>
 <a href="https://instagram.com/rakan.almadani98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakan.almadani98" height="30" width="40" /></a>
 </p>
 
